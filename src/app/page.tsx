@@ -7,8 +7,8 @@ import { useState } from "react"
 import { useEffect } from "react"
 
 // const topicsURL = "https://fabconworkshopalvidela.blob.core.windows.net/$web/topics.json"
-const topicsURL = "https://workshoptestst.blob.core.windows.net/$web/topics.json"
-//const topicsURL = "https://cs210037ffe9daf16e4.blob.core.windows.net/$web/topics.json"
+//const topicsURL = "https://workshoptestst.blob.core.windows.net/$web/topics.json"
+const topicsURL = "https://cs210037ffe9daf16e4.blob.core.windows.net/$web/topics.json"
 
 const QAsURL = "https://fabconworkshopalvidela.blob.core.windows.net/$web/generated-QAs.json"
 //const QAsURL = "https://cs210037ffe9daf16e4.blob.core.windows.net/$web/generated-QAs.json"
